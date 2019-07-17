@@ -6,7 +6,8 @@ Topics
   * MPI vs cloud 
   * OpenMP/Raja/Cuda
 * On node/cluster optimizations
-* Benchmarking/analysis
+* Benchmarking/analysis/errors
+* Parallel architectures/design decisions in modern HPC systems
 
 
 
