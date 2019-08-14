@@ -25,7 +25,7 @@ You will may this system to turn in your programming and lab assignments.
 
 ## Textbook
 
-Undecided at this time.
+None
 
 ## Attendance
 
@@ -47,7 +47,9 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ### Grade Category Percentages:
 
-+ Exams 40% of course grade (1 midterm and a final)
++ Exams 20% of course grade (1 midterm)
+
++ Final Project 20% of course grade
 
 + Programming Projects 60% of course grade
 
@@ -57,6 +59,8 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 ### Grading Meetings
 
 We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
+
+Some assignments might come from a common set of materials from CMU, these assignments will have an in class comprehension quiz for everyone, failure to complete this quiz in class will result in you needing to do a 1-on-1 grading meeting as well. If you answers to this quiz not demonstrate enough understanding, you'll be given another chance in a 1-on-1 grading meeting for up to 85% of the grading meeting credit, which would be more than you would get based on your quiz responses. 
 
 ## Programming Assignments
 
